@@ -1,3 +1,4 @@
+//reverse a string
 package corejava;
 import java.util.Scanner;
 public class ReverseString 
